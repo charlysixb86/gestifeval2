@@ -1,0 +1,60 @@
+
+
+#contenedor{
+	width: 1000px;
+	margin: 0 auto;
+	height:750px;
+
+}
+
+body { color: black; font-family:Futura; 
+  					background: url(../imagenes/fondo.jpg) no-repeat center center fixed;}
+
+#parte{
+	float: left;
+	height: 500px;
+	width:500px;
+
+
+
+}							
+					
+					
+					
+					
+#parte1{
+	float: left;
+	height: 500px;
+	width:500px;
+	margin-top:40px;
+
+
+
+}					
+					
+#parte11{
+	margin-bottom:40px;
+
+
+}					
+#parte12{
+	margin-bottom:40px;
+
+
+}					
+#parte13{
+	margin-bottom:40px;
+
+
+}					
+#parte14{
+	margin-bottom:40px;
+
+
+}					
+#parte15{
+margin-bottom:40px;
+
+
+}					
+													

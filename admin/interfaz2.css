@@ -1,0 +1,35 @@
+input{
+border-radius:10px;
+
+
+}
+													
+					
+.cambio
+			{
+					    font-weight: bold;
+						cursor: pointer;
+						padding: 5px;
+						margin: 0 10px 10px 20px;
+						border: 0px solid #ccc;
+						background: #ddd;
+						border-radius: 8px 8px 8px 8px;
+						width:250px;
+			}					
+					
+
+
+.cambio:hover 		
+				{
+    				background: #000000;
+					color: #FFFAFA;
+    			}
+				
+				
+img{
+margin-right:50px;
+
+}
+				
+				
+			
